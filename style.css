@@ -14,7 +14,7 @@ body {
   /* background: var(--Dark-cyan) url('./images/bg-pattern-top.svg') top/cover no-repeat, url('./images/bg-pattern-bottom.svg') bottom/cover no-repeat; */
   background-color: var(--Dark-cyan);
   background-image: url('./images/bg-pattern-top.svg'), url('./images/bg-pattern-bottom.svg');
-  background-position: left top, right bottom;
+  background-position: top -360px left -350px, bottom -330px right -350px;
   background-repeat: no-repeat, no-repeat;
   background-size: 700px, 750px;
   display: flex;
